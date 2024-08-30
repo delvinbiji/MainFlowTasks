@@ -231,8 +231,5 @@ corr_matrix = df['views'].corr(df['likes'])
 corr_matrix
 
 
-# In[ ]:
-
-
 
 
