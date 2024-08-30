@@ -189,8 +189,5 @@ sns.displot(x = 'age', data = df, bins = 30, kde = True);
 sns.displot(x='thalach', data=df, bins=30, kde=True, color='chocolate');
 
 
-# In[ ]:
-
-
 
 
